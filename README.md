@@ -7,4 +7,4 @@ adicionando conteudo remotamente
 
 
 ***************
-como trabalhar
+como trabalhar remotamente
